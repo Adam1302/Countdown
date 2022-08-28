@@ -1,4 +1,4 @@
-# 1: Counter
+# Countdown
 Project made using HTML+CSS+JavaScript
 
 These are some projects I made after learning HTML, CSS, and JavaScript.
