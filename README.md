@@ -1,5 +1,5 @@
-# Front-End-Projects
-Projects made using HTML+CSS+JavaScript
+# 1: Counter
+Project made using HTML+CSS+JavaScript
 
 These are some projects I made after learning HTML, CSS, and JavaScript.
 Some of these projects are basic and do one or two things, while others are more comprehensive and incorporate multiple functionalities.
